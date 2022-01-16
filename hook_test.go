@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/LyricTian/logrus-mysql-hook"
+	"github.com/muhfaris/logrus-mysql-hook"
 	"github.com/sirupsen/logrus"
 
 	_ "github.com/go-sql-driver/mysql"
